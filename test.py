@@ -10,3 +10,4 @@ electricity = (electricityper / 100) * salary
 total = savings +rent+electricity
 remainder = salary-total
 rentyear = rent * 12
+electricitycosts = electricity * 12
