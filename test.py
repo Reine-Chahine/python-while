@@ -24,5 +24,7 @@ while newitem != "stop":
   print ("the sum additional ammount of salary is:",sum)
 
 
-  print ("The month is:",month)
-  print(f"The savings for {month}: {round(savings, 2)}")
+print ("The month is:",month)
+print(f"The savings for {month}: {round(savings, 2)}")
+print ("The rent expenses  :", round(rent, 2))
+print ("The electricity expenses :", round(electricity, 2))
