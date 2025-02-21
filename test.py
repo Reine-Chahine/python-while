@@ -14,3 +14,4 @@ electricitycosts = electricity * 12
 totalsal = salary ** 2
 
 newitem=float(input("additional ammount:"))
+sum=0
