@@ -22,3 +22,6 @@ while newitem != "stop":
 
   sum += salary / savings 
   print ("the sum additional ammount of salary is:",sum)
+
+
+  print ("The month is:",month)
