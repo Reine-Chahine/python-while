@@ -25,3 +25,4 @@ while newitem != "stop":
 
 
   print ("The month is:",month)
+  print(f"The savings for {month}: {round(savings, 2)}")
