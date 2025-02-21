@@ -5,3 +5,4 @@ rentper=float(input("Enter the percentage of  rent:"))
 electricityper=float(input("Enter the percentage of electricity :"))
 
 savings = (saveper / 100) * salary
+rent = (rentper / 100) * salary
