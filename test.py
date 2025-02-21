@@ -11,3 +11,4 @@ total = savings +rent+electricity
 remainder = salary-total
 rentyear = rent * 12
 electricitycosts = electricity * 12
+totalsal = salary ** 2
