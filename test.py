@@ -1,5 +1,5 @@
 salary = float(input("Enter a salary:"))
-month = input("Enter the month:")
+month = str(input("Enter the month:"))
 saveper =float(input("Enter the percentage of savings:"))
 rentper=float(input("Enter the percentage of  rent:"))
 electricityper=float(input("Enter the percentage of electricity :"))
@@ -21,7 +21,7 @@ while newitem != "stop":
   
 
   sum += salary / savings 
-  print ("the sum additional ammount of salary is:",sum)
+  
 
 
 print ("The month is:",month)
@@ -33,3 +33,4 @@ print ("The remainder of Nabihas salary after these expenses:", round(remainder,
 print ("yearly rent year expenses:", round(rentyear,2))
 print ("yearly electricity year expenses:", round(electricitycosts,2))
 print ("total salary for the month raised to the power of 2:", round(totalsal,2))
+print ("the sum additional ammount of salary is:",sum)
