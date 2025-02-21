@@ -3,3 +3,5 @@ month = input("Enter the month:")
 saveper =float(input("Enter the percentage of savings:"))
 rentper=float(input("Enter the percentage of  rent:"))
 electricityper=float(input("Enter the percentage of electricity :"))
+
+savings = (saveper / 100) * salary
