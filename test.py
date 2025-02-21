@@ -15,3 +15,10 @@ totalsal = salary ** 2
 
 newitem=float(input("additional ammount:"))
 sum=0
+while newitem != "stop":
+ if newitem != "stop" :
+  newitem=input("additional ammount:")
+  
+
+  sum += salary / savings 
+  print ("the sum additional ammount of salary is:",sum)
